@@ -1,1 +1,1 @@
-# Resort_Website
+This Repository contains the Code for Resort Website.
