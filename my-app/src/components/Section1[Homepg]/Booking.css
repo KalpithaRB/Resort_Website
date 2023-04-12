@@ -1,0 +1,30 @@
+.Booking_section{
+height:113px;
+width:1269px;
+display:flex;
+flex-direction:row;
+column-gap:20px;
+
+}
+
+.Check-in-out{
+ display:flex;
+ column-gap: 10px;
+}
+
+.Check-in{
+    display:flex;
+}
+
+.Check-out{
+    display:flex;
+}
+
+.Guests{
+    display:flex;
+}
+
+.Check-Availability{
+    display:flex;
+}
+               
